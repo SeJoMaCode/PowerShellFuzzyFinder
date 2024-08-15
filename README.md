@@ -43,7 +43,7 @@ To make FuzzyFinder available across all PowerShell sessions:
 
 3. Copy all the script files to the new module directory:
    ```powershell
-   Copy-Item -Path "path\to\FuzzyFinder\*.ps1" -Destination "$moduleDir\FuzzyFinder"
+   Copy-Item -Path "*.ps1" -Destination "$moduleDir\FuzzyFinder"
    ```
 
 4. Create a module manifest file:
