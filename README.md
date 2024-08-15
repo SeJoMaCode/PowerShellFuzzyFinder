@@ -20,7 +20,7 @@ FuzzyFinder is a PowerShell-based tool that provides fast and intuitive file sea
 
 1. Clone this repository or download the source files:
    ```
-   git clone https://github.com/yourusername/FuzzyFinder.git
+   git clone https://github.com/SeJoMaCode/PowerShellFuzzyFinder.git
    ```
 2. Navigate to the project directory:
    ```
